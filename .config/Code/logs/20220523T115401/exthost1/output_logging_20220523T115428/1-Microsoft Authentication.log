@@ -3,3 +3,6 @@
 [Info  - 06:54:35.183] Getting sessions for the following scopes: email offline_access openid profile
 [Trace  - 06:54:35.183] No session found with idtoken scopes... Using fallback scope list of: email offline_access openid profile
 [Info  - 06:54:35.183] Got 0 sessions for scopes: email offline_access openid profile
+[Info  - 08:55:49.192] Getting sessions for the following scopes: email offline_access openid profile
+[Trace  - 08:55:49.192] No session found with idtoken scopes... Using fallback scope list of: email offline_access openid profile
+[Info  - 08:55:49.192] Got 0 sessions for scopes: email offline_access openid profile
