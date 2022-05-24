@@ -1,0 +1,15 @@
+[2022-05-24T06:09:59.934Z] Validating found git in: git
+[2022-05-24T06:10:00.410Z] Using git 2.30.2 from git
+[2022-05-24T06:10:00.683Z] > git rev-parse --show-toplevel [130ms]
+[2022-05-24T06:10:00.782Z] > git rev-parse --git-dir --git-common-dir [21ms]
+[2022-05-24T06:10:00.850Z] Open repository: /home/amrit123dahal/Class12ComputerContent
+[2022-05-24T06:10:01.103Z] > git status -z -uall [170ms]
+[2022-05-24T06:10:01.340Z] > git symbolic-ref --short HEAD [120ms]
+[2022-05-24T06:10:01.446Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/amrit refs/remotes/amrit [54ms]
+[2022-05-24T06:10:01.604Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [65ms]
+[2022-05-24T06:10:01.940Z] > git remote --verbose [341ms]
+[2022-05-24T06:10:02.623Z] > git config --get commit.template [431ms]
+[2022-05-24T06:10:02.827Z] > git check-ignore -v -z --stdin [126ms]
+[2022-05-24T06:10:04.077Z] > git show --textconv :chapter6.html [687ms]
+[2022-05-24T06:10:04.078Z] > git ls-files --stage -- /home/amrit123dahal/Class12ComputerContent/chapter6.html [489ms]
+[2022-05-24T06:10:04.171Z] > git cat-file -s 5dc9526ec16e9fcf696822d06a62f5b338d688f3 [37ms]

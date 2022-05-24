@@ -85,6 +85,17 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
+                                        "external": "file:///home/amrit123dahal/Class12ComputerContent/chapter6.html",
+                                        "path": "/home/amrit123dahal/Class12ComputerContent/chapter6.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Class12ComputerContent/chapter6.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
                                         "external": "file:///home/amrit123dahal/Class12ComputerContent/Chapter5.html",
                                         "path": "/home/amrit123dahal/Class12ComputerContent/Chapter5.html",
                                         "scheme": "file"

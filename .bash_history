@@ -127,3 +127,11 @@ git branch
 git log --oneline
 git log --oneline
 git branch
+git branch -b amrit
+git checkout -b amrit
+git -b amrit
+git status
+git add .
+git status
+git commit -m "1st Commit"
+git push origin amrit
