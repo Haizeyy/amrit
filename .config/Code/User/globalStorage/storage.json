@@ -4,11 +4,11 @@
         "lastActiveWindow": {
             "backupPath": "/home/amrit123dahal/.config/Code/Backups/1653286143432",
             "uiState": {
-                "mode": 0,
-                "x": 0,
-                "y": 40,
-                "width": 1366,
-                "height": 688
+                "mode": 1,
+                "x": 10,
+                "y": 50,
+                "width": 1346,
+                "height": 668
             }
         },
         "openedWindows": []
@@ -85,23 +85,23 @@
                                     "id": "openRecentFile",
                                     "uri": {
                                         "$mid": 1,
-                                        "external": "file:///home/amrit123dahal/Class12ComputerContent/chapter1.html",
-                                        "path": "/home/amrit123dahal/Class12ComputerContent/chapter1.html",
-                                        "scheme": "file"
-                                    },
-                                    "enabled": true,
-                                    "label": "~/Class12ComputerContent/chapter1.html"
-                                },
-                                {
-                                    "id": "openRecentFile",
-                                    "uri": {
-                                        "$mid": 1,
                                         "external": "file:///home/amrit123dahal/Class12ComputerContent/Chapter5.html",
                                         "path": "/home/amrit123dahal/Class12ComputerContent/Chapter5.html",
                                         "scheme": "file"
                                     },
                                     "enabled": true,
                                     "label": "~/Class12ComputerContent/Chapter5.html"
+                                },
+                                {
+                                    "id": "openRecentFile",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/amrit123dahal/Class12ComputerContent/chapter1.html",
+                                        "path": "/home/amrit123dahal/Class12ComputerContent/chapter1.html",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/Class12ComputerContent/chapter1.html"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
