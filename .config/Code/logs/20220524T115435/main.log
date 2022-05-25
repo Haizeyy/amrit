@@ -11,3 +11,5 @@
     at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:105:7068)
     at SimpleURLLoaderWrapper.emit (node:events:390:28)
 [2022-05-24 13:32:30.982] [main] [info] update#setState idle
+[2022-05-25 14:31:58.022] [main] [info] update#setState checking for updates
+[2022-05-25 14:31:58.672] [main] [info] update#setState idle
