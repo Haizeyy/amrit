@@ -3,3 +3,5 @@
 [2022-05-25 13:58:43.833] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
 [2022-05-27 11:01:12.732] [sharedprocess] [warning] No ptyHost heartbeat after 6 seconds
 [2022-05-27 11:01:19.762] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-05-27 12:42:55.034] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
+[2022-05-27 12:47:56.123] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {}
